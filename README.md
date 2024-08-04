@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ewerton Guimarães</h1>
-<h3 align="center">Student at FATEC🌟</h3>
+<h3 align="center">Graduated Programmer🌟</h3>
 
 <br>
 
